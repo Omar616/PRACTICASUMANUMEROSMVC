@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 4/09/2017, 07:31:10 AM
+    Author     : Bueno Rosas Brayan Omar
+*/
+
+input
+{
+    border-radius: 5%;
+    border-color:black ;
+    border-width: 10px;
+    background-color:#68e1d2 ;
+    font-family: Century Gothic;
+    font-size: 30px; 
+    color: black;  
+}
+body{
+     background-color: #f1f1f1;
+     align-items: center;
+     align-content: center;
+}
+
+h1
+{
+    font-family: Century Gothic;
+    font-size: 100px;
+}
